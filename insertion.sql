@@ -127,19 +127,19 @@ INSERT INTO sabor (codigo, nome, tipo) VALUES
     (25, 'TCHECO-ESLOVAQUIA', 1);
 
 INSERT INTO marca (codigo, nome, fornecedor, preco) VALUES
-    (1, 'Coca-Cola', 1, 4.99),
-    (2, 'Pepsi', 2, 4.99),
-    (3, 'Guaraná Antarctica', 3, 4.99),
-    (4, 'Sprite', 4, 4.99),
-    (5, 'Fanta Laranja', 5, 4.99),
-    (6, 'Água Mineral', 6, 2.99),
-    (7, 'Suco de Laranja', 7, 6.99),
-    (8, 'Suco de Maçã', 8, 6.99),
-    (9, 'Suco de Uva', 9, 6.99),
-    (10, 'Suco de Morango', 10, 6.99),
-    (11, 'Suco de Abacaxi', 11, 6.99),
-    (12, 'Chá Gelado de Pêssego', 12, 3.99),
-    (13, 'Chá Gelado de Limão', 13, 3.99);
+    (1, 'COCA-COLA', 1, 4.99),
+    (2, 'PEPSI', 2, 4.99),
+    (3, 'GUARANÁ ANTARCTICA', 3, 4.99),
+    (4, 'SPRITE', 4, 4.99),
+    (5, 'FANTA LARANJA', 5, 4.99),
+    (6, 'ÁGUA MINERAL', 6, 2.99),
+    (7, 'SUCO DE LARANJA', 7, 6.99),
+    (8, 'SUCO DE MAÇÃ', 8, 6.99),
+    (9, 'SUCO DE UVA', 9, 6.99),
+    (10, 'SUCO DE MORANGO', 10, 6.99),
+    (11, 'SUCO DE ABACAXI', 11, 6.99),
+    (12, 'CHÁ GELADO DE PÊSSEGO', 12, 3.99),
+    (13, 'CHÁ GELADO DE LIMÃO', 13, 3.99);
 
 INSERT INTO borda (codigo, nome, preco) VALUES
     (1, 'CATUPIRY', 2.00),
